@@ -1,4 +1,4 @@
-🚀 Bootcamp Klabin – Desafios
+🚀 Bootcamp Klabin – Desafio 03
 
 Este repositório reúne os desafios do Bootcamp Klabin, abordando tanto a construção de relatórios criativos em Power BI quanto a modelagem e implementação de um banco de dados relacional.
 🌐 Desafio de Projeto – Integrando Dados com MySQL Azure e Transformando com Power BI
