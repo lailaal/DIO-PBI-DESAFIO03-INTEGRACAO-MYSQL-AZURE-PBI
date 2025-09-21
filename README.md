@@ -1,17 +1,19 @@
+🔑 Melhorias aplicadas
 
+Renomeado departament → department.
 
-🔑 Melhorias aplicadas:
+Padronização de maiúsculas/minúsculas para comandos SQL.
 
-Corrigido o nome departament → department.
+Uso de JOINs explícitos em vez de vírgulas (boa prática).
 
-Uso de JOIN explícito no lugar de vírgula (boa prática).
+Definição de aliases curtos e claros (e, d, p, etc.).
 
-Padronização de maiúsculas/minúsculas.
+Correção de aspas simples (substituição das “tortas”).
 
-Inclusão de aliases claros (e, d, p, etc.).
+Inclusão de CHECK constraints diretamente na definição da tabela.
 
-Aspas simples ' corrigidas (o código tinha aspas “tortas”).
+Organização modular: schema / tabelas / constraints / consultas.
 
-Organização por blocos (inserts / consultas / expressões).
+Comentários explicativos em todo o código.
 
-Comentários explicativos para melhor legibilidade.
+Padronização de nomes de constraints (pk_, fk_, chk_, unique_).
